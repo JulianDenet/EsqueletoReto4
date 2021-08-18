@@ -41,7 +41,7 @@ class ControladorRequerimientos {
 
     // Metodo Requerimiento 3
     public static ArrayList<LideresPromediosVO> consultarLideresPromedios() throws SQLException{
-        
+    	return lideresPromediosDAO.consultarLideresPromedios();
     }
 
 }
