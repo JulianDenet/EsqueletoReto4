@@ -36,10 +36,10 @@ class ControladorRequerimientos {
     // Metodo Requerimiento 1
 
 	
-	// Metodo Requerimiento 2
+    // Metodo Requerimiento 2
 
 
-	// Metodo Requerimiento 3
+    // Metodo Requerimiento 3
     public static ArrayList<LideresPromediosVO> consultarLideresPromedios() throws SQLException{
         
     }
